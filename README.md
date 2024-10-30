@@ -30,7 +30,9 @@ Drops unnecessary columns like bookID, isbn, and isbn13.
 ## Exploratory Data Analysis (EDA):
 
 Visualizes top publishers, authors, and most common books.
+
 Analyzes average ratings, rating counts, and the distribution of languages.
+
 Uses Seaborn and Matplotlib for EDA plots and visualizations.
 ## Interactive Recommendations:
 
